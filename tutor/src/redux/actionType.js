@@ -1,0 +1,9 @@
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const ERROR_MSG = 'ERROR_MSG';
+export const RECEIVE_USER = 'RECEIVE_USER';
+export const RESET_USER = 'RESET_USER';
+export const RECEIVE_USER_LIST = 'receive_user_list';
+export const RECEIVE_MSG_LIST = 'receive_msg_list'; // 接收所有消息列表
+export const RECEIVE_MSG = 'receive_msg'; // 接收 1 條消息
+export const MSG_READ = 'msg_read'; 
+export const REGISTER_SUCCESS = "register_success";
